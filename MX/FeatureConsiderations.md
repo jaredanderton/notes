@@ -1,0 +1,25 @@
+## Feature Development Considerations
+
+- [ ] Scope
+- [ ] Cost/Benefit?
+- [ ] Been through Legal?
+- [ ] UX/Design
+- [ ] Estimated Timeline
+- [ ] Migrations?
+- [ ] Backwards Compatible?
+- [ ] Secure code considerations
+- [ ] Accessibility
+- [ ] Tenant configuration
+- [ ] I18N
+- [ ] L10N
+- [ ] Feature Flagged
+- [ ] A/B Tested
+- [ ] Analytics/Conversion
+- [ ] Monitoring
+- [ ] Alerting
+- [ ] Test Coverage
+- [ ] QA
+- [ ] Release
+- [ ] Communication (stakeholders/customers/users)
+- [ ] Feedback loop
+- [ ] Documentation/Training

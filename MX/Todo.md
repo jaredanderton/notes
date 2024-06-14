@@ -1,0 +1,21 @@
+## Todos 
+
+- [ ] Get Zoom License 
+- [ ] Gitlab / Github Access - requested
+- [ ] Posthog access - requested
+- [ ] Postman collections
+- [ ] Review API Docs (Nate/Jot)
+- [ ] Developer.mx.com (what is this)
+- [ ] Review Scrum
+- [ ] Read over (Bug SLA)[https://mxcom.atlassian.net/wiki/spaces/ENGINEERIN/pages/262570163/Bug+SLAs]
+- [ ] Read over [Product Roadmap](https://mxtech.productboard.com/roadmap/6575132-mobile-core-release-internal)
+- [ ] Access Requests
+  - [ ] gitlab
+  - [ ] zoom
+  - [ ] batcave
+  - [ ] (something else i did, but cant remember)
+- [ ] Watch onboarding docs (product overview)
+- [ ] Sync w/ Nate or Jot about career growth
+- [ ] Put together (or find) team structure spreadsheet
+- [ ] meet with [Olga|Henrique|Joe] about Device Manager
+- [ ] Get definitions of "phase 3"
