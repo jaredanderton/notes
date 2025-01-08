@@ -1,31 +1,3 @@
-### 2024-06-13
-Cannot kick off `Persona::` jobs, so we know it was a job
-Path connectors
-- individual repos 
-- very straight forward code 
-- Java (some Kotlin, mostly Java)
-
-Example of inter-service comms
-Ultraman (java codebase for GCU propietary stuff GCU's connector)
-Snaglock ( paymentis)
-In the path SDK (all connectors extend)
-  - some level of messaging
-  - NATS (in memory message queuing system (not silly named) - nats.io)
-    - lcoal & prod 
-    - blocking (like Rabbit, except its blocking)
-
-Envs
-- Sand never connect to clients - really about infra, instead of data 
-- QA -  
-- Int  - modeled just like prod (mock prod).
-  - Common prob. FIServ has a cert env and a dev. Fiserv will break something for dev, we have to switch over to cert.
-    - FiServe "were testing something on cert. need the data to be the same. please dont hit cert anymore"
-    
-Argo
-- is wht er use for infrastuture or hardware logs (cpu/mem (also in DD))
-- Also we can see config
-- see envs and pods, etc 
-
 
 
 ### 2024-06-10
@@ -104,7 +76,37 @@ Conan is package manager for cocos
 Fact check this: layers of “ineheritance”
 - Src/mmx, Extended by
 - Src/_internal is the next layer, Extended by
-- Institutions/{slug} 
+- Institutions/{slug}
+
+
+### 2024-06-13
+Cannot kick off `Persona::` jobs, so we know it was a job
+Path connectors
+- individual repos 
+- very straight forward code 
+- Java (some Kotlin, mostly Java)
+
+Example of inter-service comms
+Ultraman (java codebase for GCU propietary stuff GCU's connector)
+Snaglock ( paymentis)
+In the path SDK (all connectors extend)
+  - some level of messaging
+  - NATS (in memory message queuing system (not silly named) - nats.io)
+    - lcoal & prod 
+    - blocking (like Rabbit, except its blocking)
+
+Envs
+- Sand never connect to clients - really about infra, instead of data 
+- QA -  
+- Int  - modeled just like prod (mock prod).
+  - Common prob. FIServ has a cert env and a dev. Fiserv will break something for dev, we have to switch over to cert.
+    - FiServe "were testing something on cert. need the data to be the same. please dont hit cert anymore"
+    
+Argo
+- is wht er use for infrastuture or hardware logs (cpu/mem (also in DD))
+- Also we can see config
+- see envs and pods, etc 
+
 
 
 

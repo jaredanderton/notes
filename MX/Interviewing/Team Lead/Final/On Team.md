@@ -1,0 +1,11 @@
+
+### On Team
+
+
+1. How do you build and maintain trust with your engineering teams? Can you provide an example of a situation where you successfully built trust within a team? What specific actions did you take? How do you ensure that remote or distributed teams feel included and trusted?  
+2. How do you approach giving and receiving feedback within your team? Can you provide an example of a time when you gave difficult feedback to a team member? How did you handle the situation? How do you create a culture where team members feel comfortable giving feedback to you and to each other?
+3. How do you support and encourage the personal and career growth of your team members? Can you share an example of a time when you helped a team member achieve significant career advancement or personal growth? What steps did you take to support them? How do you identify the strengths and weaknesses of your team members, and how do you use this information to guide their development?
+4. How do you manage expectations and priorities when dealing with external teams that have competing interests? Can you provide an example of a situation where you had to manage competing interests between your team and an external team? What was the outcome?
+5. Can you describe your experience working with mobile app development teams? Can you explain the mobile app development lifecycle and how you've managed it in previous projects? What are some of the challenges you've faced working in or managing mobile teams?
+6. How do you foster a culture of technical excellence within your team? Can you share an example of a time when technical debt impacted your team's productivity or project outcomes? How did you address it? How do you balance the need to deliver new features quickly with the need to address existing technical debt?
+7. Can you describe your ideal testing strategy for mobile app development, covering aspects such as unit, integration, end-to-end, automated, and manual testing? How do you decide which types of tests to implement?
